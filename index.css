@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&display=swap');
 body {
-    background: gray;
+    background: black;
 }
 
 .clock {
@@ -7,11 +8,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    color: #38daaa;
-    font-size: 50px;
-    font-family: Orbitron;
+    color: #9c40e3;
+    font-size: 60px;
+    font-family: 'Andada Pro', serif;
     letter-spacing: 7px;
-   
-
-
 }
