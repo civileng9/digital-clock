@@ -1,2 +1,3 @@
-# hactober
-hactoberfest
+# Digital Clock
+
+Digital Clock
