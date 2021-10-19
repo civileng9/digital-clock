@@ -1,3 +1,4 @@
+document.getElementById('clock').addEventListener('onload',showTime());
 function showTime(){
     var date = new Date();
     var h = date.getHours(); // 0 - 23
